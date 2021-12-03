@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="Task1/test.php">Задание 1</a>  <br>
-    <a href="Task2/login.php">Задание 2</a>  <br>
+    <a href="/Task1/test.php">Задание 1</a>  <br>
+    <a href="/Task2/login.php">Задание 2</a>  <br>
 </body>
 </html>
